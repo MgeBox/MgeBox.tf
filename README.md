@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## <img src=".github/assets/mgebox.png" alt="Mgebox" width="520">
+  ## <img src=".github/assets/MgeBox.png" alt="Mgebox" width="520">
 
   [![Stars](https://img.shields.io/github/stars/GatoPotato658/Mgebox?style=for-the-badge&color=white&logo=github)](/../../stargazers)
   [![Workflow status](https://img.shields.io/github/actions/workflow/status/GatoPotato658/Mgebox/msbuild.yml?branch=master&style=for-the-badge)](/../../actions)
